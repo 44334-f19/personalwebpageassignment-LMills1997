@@ -1,1 +1,86 @@
 /*Personal Web Page Style Sheet */
+/* Two Column Layout */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.row {
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: darkseagreen;
+    color: white;
+    line-height: 3;
+    font-size: 20px;
+}
+
+
+header {
+    background-color: darkolivegreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+body {
+    background-color: ghostwhite;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: darkolivegreen;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Gayathri', sans-serif;
+}
+
+h2 {
+    color: azure;
+    font-family: 'Gayathri', sans-serif;
+}
+
+h3 {
+    color: darkolivegreen;
+    font-size: 30px;
+    font-family: 'Gayathri', sans-serif;
+}
+
+h4 {
+    color: darkolivegreen;
+    font-family: 'Gayathri', sans-serif;
+    font-size: 40px;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+a:link {
+    color: green;
+}
+
+a:hover {
+    color: limegreen;
+}
+
+a:active {
+    color: darkolivegreen;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+}
+
+
